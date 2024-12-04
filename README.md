@@ -1,4 +1,4 @@
-# Awesome CT Reconstruction from Incomplete projection data [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Awesome CT Reconstruction from Incomplete projection data ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 
 <!-- ![Image](https://pbs.twimg.com/media/GLbj1TyasAA9WF0?format=jpg&name=4096x4096)
 
@@ -19,7 +19,9 @@ RWKV Ecosystem: https://rwkv.cn/eco -->
 ### Survey
 | Title                                                        | Code                                                         | Link                                                         | Year |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | ---- |
-| A Review of Deep Learning CT Reconstruction From Incomplete Projection Data | None | [IEEE TRPMS](https://ieeexplore.ieee.org/abstract/document/10253669) | 2023 |
+| A Review of Deep Learning CT Reconstruction From Incomplete Projection Data | [![Star](https://img.shields.io/github/stars/zjk1988/Deep-Learning-CT-Reconstruction-from-Incomplete-Projection-Data.svg?style=social&label=Star)](https://github.com/zjk1988/Deep-Learning-CT-Reconstruction-from-Incomplete-Projection-Data) | [IEEE TRPMS](https://ieeexplore.ieee.org/abstract/document/10253669) | 2023 |
+
+
 | CT Image Denoising and Deblurring With Deep Learning: Current Status and Perspectives | None | [IEEE TRPMS](https://ieeexplore.ieee.org/abstract/document/10253669) | 2023 |
 
 
