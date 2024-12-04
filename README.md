@@ -26,16 +26,16 @@ RWKV Ecosystem: https://rwkv.cn/eco -->
 ### Metal Artifacts Reduction
 | Title | Code | Link | Year |
 |:------|:-----|:-----|:-----|
-| F2IFlow | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10741004) | 2024 |
-| Metal Artifacts Reducing Method Using Intraoral Data | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10630537) | 2024 |
-| DiffMAR | None | [IEEE JBHI](https://ieeexplore.ieee.org/abstract/document/10629037) | 2024 |
-| DDPM for Metal Artifact Reduction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10586949/) | 2024 |
-| Adaptive Learning With Multi-Perspective Regularizations | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10510476) | 2024 |
-| PND-Net | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10404006) | 2024 |
-| Quad-Net | [![Star](https://img.shields.io/github/stars/longzilicart/Quad-Net.svg?style=social&label=Star)](https://github.com/longzilicart/Quad-Net) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10385220) | 2024 |
-| DuDoDp-MAR | [![Star](https://img.shields.io/github/stars/DeepXuan/DuDoDp-MAR.svg?style=social&label=Star)](https://github.com/DeepXuan/DuDoDp-MAR) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10385050) | 2024 |
-| SemiMAR | [![Star](https://img.shields.io/github/stars/zjk1988/SemiMAR.svg?style=social&label=Star)](https://github.com/zjk1988/SemiMAR) | [IEEE JBHI](https://ieeexplore.ieee.org/abstract/document/10239528) | 2023 |
-| Polyner | [![Star](https://img.shields.io/github/stars/iwuqing/Polyner.svg?style=social&label=Star)](https://github.com/iwuqing/Polyner) | [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbf02b21d77409a2db30e56866a8ab3a-Abstract-Conference.html) | 2023 |
+| F2IFlow: A Fast and Flexible Diffusion Model for CT Metal Artifact Reduction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10741004) | 2024 |
+| Metal Artifacts Reducing Method Based on Diffusion Model Using Intraoral Optical Scanning Data for Dental Cone-beam CT | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10630537) | 2024 |
+| DiffMAR: A Generalized Diffusion Model for Metal Artifact Reduction in CT Images | None | [IEEE JBHI](https://ieeexplore.ieee.org/abstract/document/10629037) | 2024 |
+| A Denoising Diffusion Probabilistic Model for Metal Artifact Reduction in CT | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10586949/) | 2024 |
+| Adaptive and Iterative Learning With Multi-Perspective Regularizations for Metal Artifact Reduction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10510476) | 2024 |
+| PND-Net: Physics-Inspired Non-Local Dual-Domain Network for Metal Artifact Reduction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10404006) | 2024 |
+| Quad-Net: Quad-Domain Network for CT Metal Artifact Reduction | [![Star](https://img.shields.io/github/stars/longzilicart/Quad-Net.svg?style=social&label=Star)](https://github.com/longzilicart/Quad-Net) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10385220) | 2024 |
+| Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains | [![Star](https://img.shields.io/github/stars/DeepXuan/DuDoDp-MAR.svg?style=social&label=Star)](https://github.com/DeepXuan/DuDoDp-MAR) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10385050) | 2024 |
+| SemiMAR: Semi-Supervised Learning for CT Metal Artifact Reduction | [![Star](https://img.shields.io/github/stars/zjk1988/SemiMAR.svg?style=social&label=Star)](https://github.com/zjk1988/SemiMAR) | [IEEE JBHI](https://ieeexplore.ieee.org/abstract/document/10239528) | 2023 |
+| Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction | [![Star](https://img.shields.io/github/stars/iwuqing/Polyner.svg?style=social&label=Star)](https://github.com/iwuqing/Polyner) | [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbf02b21d77409a2db30e56866a8ab3a-Abstract-Conference.html) | 2023 |
 
 
 
