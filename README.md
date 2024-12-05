@@ -20,8 +20,6 @@ RWKV Ecosystem: https://rwkv.cn/eco -->
 | Title                                                        | Code                                                         | Link                                                         | Year |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | ---- |
 | A Review of Deep Learning CT Reconstruction From Incomplete Projection Data | [![Star](https://img.shields.io/github/stars/zjk1988/Deep-Learning-CT-Reconstruction-from-Incomplete-Projection-Data.svg?style=social&label=Star)](https://github.com/zjk1988/Deep-Learning-CT-Reconstruction-from-Incomplete-Projection-Data) | [IEEE TRPMS](https://ieeexplore.ieee.org/abstract/document/10253669) | 2023 |
-
-
 | CT Image Denoising and Deblurring With Deep Learning: Current Status and Perspectives | None | [IEEE TRPMS](https://ieeexplore.ieee.org/abstract/document/10253669) | 2023 |
 
 
