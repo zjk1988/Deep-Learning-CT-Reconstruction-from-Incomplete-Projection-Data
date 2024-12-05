@@ -22,6 +22,24 @@ RWKV Ecosystem: https://rwkv.cn/eco -->
 | A Review of Deep Learning CT Reconstruction From Incomplete Projection Data | [![Star](https://img.shields.io/github/stars/zjk1988/Deep-Learning-CT-Reconstruction-from-Incomplete-Projection-Data.svg?style=social&label=Star)](https://github.com/zjk1988/Deep-Learning-CT-Reconstruction-from-Incomplete-Projection-Data) | [IEEE TRPMS](https://ieeexplore.ieee.org/abstract/document/10253669) | 2023 |
 | CT Image Denoising and Deblurring With Deep Learning: Current Status and Perspectives | None | [IEEE TRPMS](https://ieeexplore.ieee.org/abstract/document/10253669) | 2023 |
 
+### Sparse View
+| Title                                                        | Code                                                         | Link                                                         | Year |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | ---- |
+| Sparse-View Spectral CT Reconstruction and Material Decomposition Based on Multi-Channel SGM | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10555415) | 2024 |
+| Geometry-Aware Attenuation Learning for Sparse-View CBCT Reconstruction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10705334) | 2024 |
+| Stage-by-Stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10403850) | 2024 |
+| Multi-Channel Optimization Generative Model for Stable Ultra-Sparse-View CT Reconstruction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10466738) | 2024 |
+| UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views | [![Star](https://img.shields.io/github/stars/wrld/UC-NeRF.svg?style=social&label=Star)](https://github.com/wrld/UC-NeRF) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10750866) | 2024 |
+| Wavelet-Improved Score-Based Generative Model for Medical Imaging | [Code](https://zenodo.org/record/8266123) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10288274) | 2024 |
+| DuDoCFNet: Dual-Domain Coarse-to-Fine Progressive Network for Simultaneous Denoising, Limited-View Reconstruction, and Attenuation Correction of Cardiac SPECT | [![Star](https://img.shields.io/github/stars/XiongchaoChen/DuDoCFNet-MultiTask.svg?style=social&label=Star)](https://github.com/XiongchaoChen/DuDoCFNet-MultiTask) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10494204) | 2024 |
+
+### Limited Angle
+| Title | Code | Link | Year |
+|:------|:-----|:-----|:-----|
+| Time-Reversion Fast-Sampling Score-Based Model for Limited-Angle CT Reconstruction | [![Star](https://img.shields.io/github/stars/tianzhijiaoziA/TIFADiffusion.svg?style=social&label=Star)](https://github.com/tianzhijiaoziA/TIFADiffusion) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10570449) | 2024 |
+| Wavelet-Inspired Multi-Channel Score-Based Model for Limited-Angle CT Reconstruction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10439231) | 2024 |
+| Dual-Domain Collaborative Diffusion Sampling for Multi-Source Stationary Computed Tomography Reconstruction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10577271) | 2024 |
+
 
 ### Metal Artifacts Reduction
 | Title | Code | Link | Year |
