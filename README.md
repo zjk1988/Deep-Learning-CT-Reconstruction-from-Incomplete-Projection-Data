@@ -1,12 +1,5 @@
 # Awesome CT Reconstruction from Incomplete projection data ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 
-<!-- ![Image](https://pbs.twimg.com/media/GLbj1TyasAA9WF0?format=jpg&name=4096x4096)
-
-RWKV4:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social&label=Star)](https://github.com/BlinkDL/RWKV-LM)[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13048)
-
-RWKV5&6:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social&label=Star)](https://github.com/BlinkDL/RWKV-LM)[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05892)
-
-RWKV Ecosystem: https://rwkv.cn/eco -->
 
 ## Table of Contents 
 
@@ -32,6 +25,12 @@ RWKV Ecosystem: https://rwkv.cn/eco -->
 | UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views | [![Star](https://img.shields.io/github/stars/wrld/UC-NeRF.svg?style=social&label=Star)](https://github.com/wrld/UC-NeRF) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10750866) | 2024 |
 | Wavelet-Improved Score-Based Generative Model for Medical Imaging | [Code](https://zenodo.org/record/8266123) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10288274) | 2024 |
 | DuDoCFNet: Dual-Domain Coarse-to-Fine Progressive Network for Simultaneous Denoising, Limited-View Reconstruction, and Attenuation Correction of Cardiac SPECT | [![Star](https://img.shields.io/github/stars/XiongchaoChen/DuDoCFNet-MultiTask.svg?style=social&label=Star)](https://github.com/XiongchaoChen/DuDoCFNet-MultiTask) | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10494204) | 2024 |
+CT-SDM: A Sampling Diffusion Model for Sparse-View CT Reconstruction Across Various Sampling Rates | None | [IEEE TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10884612#page=1.25) | 2025 |
+Mitigating Data Consistency Induced Discrepancy in Cascaded Diffusion Models for Sparse-View CT Reconstruction | None | [IEEE TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10947632#page=1.24) | 2025 |
+Ultra-Sparse-View Cone-Beam CT Reconstruction-Based Strictly Structure-Preserved Deep Neural Network in Image-Guided Radiation Therapy | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10884619) | 2025 |
+Learning Task-Specific Sampling Strategy for Sparse-View CT Reconstruction | None | [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10948194) | 2025 |
+3DGR-CT: Sparse-view CT reconstruction with a 3D Gaussian representation | [![Star](https://img.shields.io/github/stars/SigmaLDC/3DGR-CT.svg?style=social&label=Star)](https://github.com/SigmaLDC/3DGR-CT) | [MedIA](https://www.sciencedirect.com/science/article/abs/pii/S136184152500132X) | 2025 |
+Unsupervised Self-Prior Embedding Neural Representation for Iterative Sparse-View CT Reconstruction | [![Star](https://img.shields.io/github/stars/MeijiTian/Spener.svg?style=social&label=Star)](https://github.com/MeijiTian/Spener) | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32794) | 2025 |
 
 ### Limited Angle
 | Title | Code | Link | Year |
@@ -73,49 +72,3 @@ If you find this survey useful for your research, please cite our [Paper](https:
 
 ```
 
-<!-- ### Vision Backbone
-
-| Title                                                        | Code                                                         | Link                                                         |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures | [![Star](https://img.shields.io/github/stars/OpenGVLab/Vision-RWKV.svg?style=social&label=Star)](https://github.com/OpenGVLab/Vision-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02308) | -->
-
-<!-- ### Image Restoration
-
-| Title                                                        | Code                                                         | Link                                                         |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | [![Star](https://img.shields.io/github/stars/Yaziwel/Restore-RWKV.svg?style=social&label=Star)](https://github.com/Yaziwel/Restore-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.11087) |
-
-### Image Generation
-
-| Title                                                        | Code                                                         | Link                                                         |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models | [![Star](https://img.shields.io/github/stars/feizc/Diffusion-RWKV.svg?style=social&label=Star)](https://github.com/feizc/Diffusion-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.04478) |
-
-### Image Segmentation
-
-| Title                                                        | Code                                                         | Link                                                         |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures | [![Star](https://img.shields.io/github/stars/OpenGVLab/Vision-RWKV.svg?style=social&label=Star)](https://github.com/OpenGVLab/Vision-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02308) |
-| Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model | [![Star](https://img.shields.io/github/stars/HarborYuan/ovsam.svg?style=social&label=Star)](https://github.com/HarborYuan/ovsam) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19369) |
-| BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation | N/A                                                          | [LINK](https://openreview.net/forum?id=ULD5RCk0oo)           | -->
-
-<!-- ### Vision-Language Model
-
-| Title                                                      | Code                                                         | Link                                                         |
-| :--------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| VisualRWKV: Visual Language model based on RWKV            | [![Star](https://img.shields.io/github/stars/howard-hou/VisualRWKV.svg?style=social&label=Star)](https://github.com/howard-hou/VisualRWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13362) |
-| RWKV-CLIP: A Robust Vision-Language Representation Learner | [![Star](https://img.shields.io/github/stars/deepglint/RWKV-CLIP.svg?style=social&label=Star)](https://github.com/deepglint/RWKV-CLIP) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.06973) |
-
-### 3D Point Cloud Learning
-
-| Title                                                        | Code                                                         | Link                                                         |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning | [![Star](https://img.shields.io/github/stars/hithqd/PointRWKV.svg?style=social&label=Star)](https://github.com/hithqd/PointRWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15214) |
-| LION: Linear Group RNN for 3D Object Detection in Point Clouds | [![Star](https://img.shields.io/github/stars/happinesslz/LION.svg?style=social&label=Star)](https://github.com/happinesslz/LION) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.18232) |
-| OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity | [![Star](https://img.shields.io/github/stars/jmwang0117/OccRWKV.svg?style=social&label=Star)](https://github.com/jmwang0117/OccRWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.19987) |
-
-### Video Understanding
-
-| Title                                           | Code | Link                                                         |
-| :---------------------------------------------- | ---- | ------------------------------------------------------------ |
-| Video RWKV: Video Action Recognition Based RWKV | N/A  | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05636) | -->
